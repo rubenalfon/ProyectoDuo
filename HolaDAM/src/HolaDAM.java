@@ -29,6 +29,7 @@ public class HolaDAM {
             System.out.println(num + " * " + cont + " = " + (num*cont));
             cont++;
         }
+        System.out.println("uwu");
     }
     
 }
